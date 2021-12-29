@@ -288,9 +288,6 @@ nav {
   .nav-text-logo {
     font-size: 30px;
   }
-  .nav-wrapper {
-    padding: 20px;
-  }
   .home {
     min-height: calc(100vh - 78px);
   }
