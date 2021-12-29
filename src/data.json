@@ -1,0 +1,53 @@
+{
+  "Apps": [
+    {
+      "name": "Chat App",
+      "description": "Chat application developed with React.js, Redux, Firebase",
+      "img": "https://i.ibb.co/0j6Rt1S/chat.png",
+      "url": "https://chat-app-react-theta.vercel.app/auth/login",
+      "urlGitHub": "https://github.com/Lozano7/chat-app"
+    },
+    {
+      "name": "Heroes App",
+      "description": "Marvel and Dc hero search application, developed with React.js",
+      "img": "https://d33wubrfki0l68.cloudfront.net/61c93a6a4bd53f38ce18a17f/screenshot_2021-12-27-04-07-19-0000.png",
+      "url": "https://heroe-search-react-app.netlify.app/",
+      "urlGitHub": "https://github.com/Lozano7/hero-app"
+    },
+    {
+      "name": "Giffy App",
+      "description": "Gif search application, developed with React.js and the Giphy api",
+      "img": "https://i.ibb.co/K5mCV0c/Giffy.png",
+      "url": "https://lozano7.github.io/giffy-app/",
+      "urlGitHub": "https://github.com/Lozano7/giffy-app"
+    },
+    {
+      "name": "Todo App",
+      "description": "Todo application, developed with React.js",
+      "img": "https://i.ibb.co/m5LkMv7/todo.png",
+      "url": "https://lozano7.github.io/TodoApp/",
+      "urlGitHub": "https://github.com/Lozano7/TodoApp"
+    },
+    {
+      "name": "Breaking bad App",
+      "description": "Phrases application from the breaking bad series developed with React.js and the breakingbadapi api",
+      "img": "https://i.ibb.co/4VrZmZ7/breaking-Bad.png",
+      "url": "https://lozano7.github.io/BreakingApp/",
+      "urlGitHub": "https://github.com/Lozano7/BreakingApp"
+    },
+    {
+      "name": "Dog App",
+      "description": "Dog images application, developed with React.js and the Dog api",
+      "img": "https://i.ibb.co/M7b08T4/Dog.png",
+      "url": "https://lozano7.github.io/DogApp/",
+      "urlGitHub": "https://github.com/Lozano7/DogApp"
+    },
+    {
+      "name": "Rock Paper Scissors",
+      "description": "Rock paper scissors game, developed with JavaScript, HTML and CSS",
+      "img": "https://i.ibb.co/LgbxMkG/rock-paper-scissor.png",
+      "url": "https://lozano7.github.io/rock-paper-sissors/",
+      "urlGitHub": "https://github.com/Lozano7/rock-paper-sissors"
+    }
+  ]
+}
