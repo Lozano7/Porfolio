@@ -289,7 +289,7 @@ nav {
     font-size: 30px;
   }
   .home {
-    min-height: calc(100vh - 78px);
+    min-height: calc(100vh - 48px);
   }
   .home-container {
     flex-direction: row;
