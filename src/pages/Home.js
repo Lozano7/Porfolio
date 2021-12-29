@@ -6,7 +6,6 @@ const Home = () => {
       top: 600,
     });
   };
-  console.log('home');
   return (
     <section className='home' id='home'>
       <div className='home-container'>

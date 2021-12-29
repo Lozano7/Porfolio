@@ -8,7 +8,6 @@ import Skills from './pages/Skills';
 import './porfolioApp.css';
 function PorfolioApp() {
   const modalRef = useRef();
-  console.log('porfolioApp');
   return (
     <div className='App'>
       <Navbar modal={modalRef} />

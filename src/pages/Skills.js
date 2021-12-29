@@ -2,7 +2,6 @@ import React from 'react';
 import SkillsItem from '../components/SkillsItem';
 
 const Skills = () => {
-  console.log('skills');
   return (
     <section className='skills' id='skills'>
       <h2>Skills</h2>

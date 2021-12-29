@@ -2,7 +2,6 @@ import React from 'react';
 import CardProjects from '../components/CardProjects';
 import data from '../data.json';
 const Projects = () => {
-  console.log(data);
   return (
     <section className='projects' id='projects'>
       <h2>Projects</h2>
