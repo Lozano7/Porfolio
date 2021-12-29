@@ -13,7 +13,7 @@ const CardProjects = ({ name, description, img, url, urlGitHub }) => {
         <h3>{name}</h3>
         <p>{description}</p>
         <div className='links'>
-          <a href={url} target='_blank' rel='noopener noreferrer'>
+          <a href={urlGitHub} target='_blank' rel='noopener noreferrer'>
             Code <i className='bx bx-code-alt'></i>
           </a>
           <a href={url} target='_blank' rel='noopener noreferrer'>
