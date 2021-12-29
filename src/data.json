@@ -11,7 +11,7 @@
       "name": "Heroes App",
       "description": "Marvel and Dc hero search application, developed with React.js",
       "img": "https://d33wubrfki0l68.cloudfront.net/61c93a6a4bd53f38ce18a17f/screenshot_2021-12-27-04-07-19-0000.png",
-      "url": "https://heroe-search-react-app.netlify.app/",
+      "url": "https://hero-app-nine.vercel.app/",
       "urlGitHub": "https://github.com/Lozano7/hero-app"
     },
     {
