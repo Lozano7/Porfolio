@@ -1,6 +1,13 @@
 {
   "Apps": [
     {
+      "name": "PhotoShare App",
+      "description": "Application developed with React.js, Sanity.io",
+      "img": "https://d33wubrfki0l68.cloudfront.net/61fdc37f43cac733cd76e16f/screenshot_2022-02-05-00-23-30-0000.png",
+      "url": "https://photoshare-app.netlify.app/",
+      "urlGitHub": "https://github.com/Lozano7/photoshare_frontend"
+    },
+    {
       "name": "Chat App",
       "description": "Chat application developed with React.js, Redux, Firebase",
       "img": "https://i.ibb.co/0j6Rt1S/chat.png",
