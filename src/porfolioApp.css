@@ -216,7 +216,6 @@ nav {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
   min-height: calc(100vh - 41px);
   padding: 30px;
 }
@@ -226,11 +225,10 @@ nav {
 }
 .projects-container {
   width: 100%;
+  display: grid;
   place-content: center;
-  justify-content: center;
-
   grid-template-columns: repeat(auto-fit, 300px);
-  grid-gap: 50px 25px;
+  grid-gap: 30px;
 }
 .card {
   width: 100%;
@@ -286,7 +284,7 @@ nav {
   font-size: 20px;
   margin-left: 5px;
 }
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 768px) {
   .nav-text-logo {
     font-size: 30px;
   }
@@ -351,7 +349,12 @@ nav {
     font-size: 45px;
     margin: 50px 0;
   }
-
+  .projects-container {
+    width: 100%;
+    place-content: center;
+    justify-content: center;
+    grid-gap: 50px 35px;
+  }
   .card {
     width: 300px;
     max-height: 450px;
