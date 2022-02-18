@@ -285,7 +285,7 @@ nav {
   font-size: 20px;
   margin-left: 5px;
 }
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 425px) {
   .nav-text-logo {
     font-size: 30px;
   }
@@ -355,7 +355,7 @@ nav {
     place-content: center;
     justify-content: center;
 
-    grid-template-columns: repeat(auto-fit, 350px);
+    grid-template-columns: repeat(auto-fit, 300px);
     grid-gap: 50px 25px;
   }
   .card {
