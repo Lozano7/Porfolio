@@ -214,6 +214,7 @@ nav {
 /*Projects*/
 .projects {
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   min-height: calc(100vh - 41px);
@@ -354,8 +355,8 @@ nav {
     place-content: center;
     justify-content: center;
 
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    grid-gap: 50px 8px;
+    grid-template-columns: repeat(auto-fit, 350px);
+    grid-gap: 50px 25px;
   }
   .card {
     width: 300px;
