@@ -186,18 +186,18 @@ nav {
   flex-grow: 1;
 }
 .skills-items {
-  justify-self: flex-end;
-  display: flex;
-  align-items: center;
-  justify-content: space-evenly;
-  flex-wrap: wrap;
+  display: grid;
+  place-content: center;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
   padding: 0 25px;
 }
 .skills-item {
   display: flex;
+  height: 137px;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-end;
   padding: 10px;
 }
 .skills-item img {
@@ -338,12 +338,6 @@ nav {
   .skills h2 {
     font-size: 45px;
     margin: 40px 0;
-  }
-  .skills-items {
-    display: grid;
-    place-content: center;
-    grid-template-columns: repeat(3, 1fr);
-    grid-gap: 10px;
   }
   .projects h2 {
     font-size: 45px;
