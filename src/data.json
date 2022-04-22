@@ -1,57 +1,64 @@
 {
   "Apps": [
     {
-      "name": "PhotoShare App",
-      "description": "Application developed with React.js, Sanity.io",
-      "img": "https://d33wubrfki0l68.cloudfront.net/61fdc37f43cac733cd76e16f/screenshot_2022-02-05-00-23-30-0000.png",
-      "url": "https://photoshare-app.netlify.app/",
+      "name": "Clon Página Kia de Catálogo",
+      "description": "Application developed with React.JS with TypeScript, Redux ,Stripe and Firebase",
+      "img": "https://i.ibb.co/KDFgHDM/concesionaria.jpg",
+      "url": "https://concesionaria-app.vercel.app/",
       "urlGitHub": "https://github.com/Lozano7/photoshare_frontend"
     },
     {
+      "name": "PhotoShare App",
+      "description": "Application developed with React.JS, Sanity.io",
+      "img": "https://d33wubrfki0l68.cloudfront.net/61fdc37f43cac733cd76e16f/screenshot_2022-02-05-00-23-30-0000.png",
+      "url": "https://photoshare-app.netlify.app/",
+      "urlGitHub": "https://github.com/Lozano7/concesionaria-app"
+    },
+    {
       "name": "Chat App",
-      "description": "Chat application developed with React.js, Redux, Firebase",
+      "description": "Chat application developed with React.JS, Redux, Firebase",
       "img": "https://i.ibb.co/0j6Rt1S/chat.png",
       "url": "https://chat-app-react-theta.vercel.app/auth/login",
       "urlGitHub": "https://github.com/Lozano7/chat-app"
     },
     {
       "name": "Journal App",
-      "description": "Application to create notes developed with React.js, Redux, Firebase and Cloudinary",
+      "description": "Application to create notes developed with React.JS, Redux, Firebase and Cloudinary",
       "img": "https://i.ibb.co/BjfJ2MC/jounal.png",
       "url": "https://journal-app-tau.vercel.app/auth/login",
       "urlGitHub": "https://github.com/Lozano7/journal-app"
     },
     {
       "name": "Heroes App",
-      "description": "Marvel and Dc hero search application, developed with React.js",
+      "description": "Marvel and Dc hero search application, developed with React.JS",
       "img": "https://d33wubrfki0l68.cloudfront.net/61c93a6a4bd53f38ce18a17f/screenshot_2021-12-27-04-07-19-0000.png",
       "url": "https://hero-app-nine.vercel.app/",
       "urlGitHub": "https://github.com/Lozano7/hero-app"
     },
     {
       "name": "Giffy App",
-      "description": "Gif search application, developed with React.js and the Giphy api",
+      "description": "Gif search application, developed with React.JS and the Giphy api",
       "img": "https://i.ibb.co/K5mCV0c/Giffy.png",
       "url": "https://lozano7.github.io/giffy-app/",
       "urlGitHub": "https://github.com/Lozano7/giffy-app"
     },
     {
       "name": "Todo App",
-      "description": "Todo application, developed with React.js",
+      "description": "Todo application, developed with React.JS",
       "img": "https://i.ibb.co/m5LkMv7/todo.png",
       "url": "https://lozano7.github.io/TodoApp/",
       "urlGitHub": "https://github.com/Lozano7/TodoApp"
     },
     {
       "name": "Breaking bad App",
-      "description": "Phrases application from the breaking bad series developed with React.js and the breakingbadapi api",
+      "description": "Phrases application from the breaking bad series developed with React.JS and the breakingbadapi api",
       "img": "https://i.ibb.co/4VrZmZ7/breaking-Bad.png",
       "url": "https://lozano7.github.io/BreakingApp/",
       "urlGitHub": "https://github.com/Lozano7/BreakingApp"
     },
     {
       "name": "Dog App",
-      "description": "Dog images application, developed with React.js and the Dog api",
+      "description": "Dog images application, developed with React.JS and the Dog api",
       "img": "https://i.ibb.co/M7b08T4/Dog.png",
       "url": "https://lozano7.github.io/DogApp/",
       "urlGitHub": "https://github.com/Lozano7/DogApp"
